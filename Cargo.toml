@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "sec_lib",
+    "cce_cik_db",
+    "cce_create_company_db",
+    "cce_poll_names",
+    "cce-poll-tickers",
+    "cce-get-facts",
+]

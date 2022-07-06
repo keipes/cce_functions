@@ -1,0 +1,15 @@
+{
+  "title": "CashAndCashEquivalentsAtCarryingValue",
+  "x-label": "Financial Quarter",
+  "y-label": "USD",
+  "data": [
+    ["2009 Q1", 12],
+    ["2009 Q2", 12],
+    ["2009 Q3", 12],
+    ["2009 Q4", 12],
+    ["2010 Q1", 12],
+    ["2010 Q2", 12],
+    ["2010 Q3", 12],
+    ["2010 Q4", 12],
+  ]
+}
